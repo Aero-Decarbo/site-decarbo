@@ -1,0 +1,120 @@
+.. title: Pouvoir voler en 2050
+.. slug: pve2050
+.. date: 2022-03-09 14:40:12 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+Le Shift et le collectif Supaéro Décarbo (ancêtre de l’association Aéro Décarbo) ont publié mercredi 3 mars 2021 leur nouveau rapport sur la décarbonation du secteur aérien, « Pouvoir voler en 2050 : quelle aviation dans un monde contraint ? » Ce rapport faisait suite aux premiers travaux du Shift sur le sujet avec la publication en mai 2020 de « Crise(s), climat : préparer l’avenir de l’aviation ».
+
+Comment agir aujourd’hui pour continuer à voler demain, dans un monde contraint ? Comment orienter le secteur aéronautique vers des trajectoires compatibles avec les enjeux climatiques et moins dépendantes des approvisionnements en énergies fossiles ?
+
+`Téléchargez le rapport complet (135 pages) <https://theshiftproject.org/wp-content/uploads/2021/12/TSP_AVIATION_RAPPORT_211116.pdf>`_
+
+`Téléchargez la synthèse (10 pages) <https://theshiftproject.org/wp-content/uploads/2021/03/Pouvoir-voler-en-2050_Shift-Project_Synthese.pdf>`_
+
+`Téléchargez la note de calcul <https://theshiftproject.org/wp-content/uploads/2021/07/Calculs-et-scenarios-Rapport-Aerien-TSPSD.xlsx>`_
+
+
+.. list-table::
+   :widths: 40 20 40
+   :align: center
+
+   * - **Rapport complet**
+     - 
+     - **Synthèse**
+   * - .. image:: /images/pve2050-rapport.jpg
+         :width: 200
+         :alt: Couverture du rapport Pouvoir voler en 2050
+         :align: center
+         :target: https://theshiftproject.org/wp-content/uploads/2021/12/TSP_AVIATION_RAPPORT_211116.pdf
+     - 
+     - .. image:: /images/pve2050-synthèse.jpg
+         :width: 200
+         :alt: Couverture de la synthèse du rapport Pouvoir voler en 2050
+         :align: center
+         :target: https://theshiftproject.org/wp-content/uploads/2021/03/Pouvoir-voler-en-2050_Shift-Project_Synthese.pdf
+
+
+Replay du webinaire de présentation du rapport « Pouvoir voler en 2050 » – Mercredi 3 mars 2021
+
+.. youtube:: u3nKE14K3fQ
+   :align: center
+
+Les supports de présentation sont disponibles `sous ce lien <https://bit.ly/3kVqmlS>`_.
+
+
+Pouvoir voler en 2050 : Quelle aviation dans un monde contraint ?
+#################################################################
+
+Peu de secteurs occupent dans le paysage de la transition énergétique une place aussi singulière que l’aviation. Industrie de pointe à l’impact climatique négligeable pour ses défenseurs, lubie des ultra-riches rompus à l’exercice de minimiser leurs émissions pour ses détracteurs, elle génère des avis clivants et des oppositions parfois stériles.
+
+Les auteurs du présent rapport soutiennent l’idée que par-delà ces oppositions, une autre voix doit se faire entendre, alors que l’opportunité se présente d’orienter la relance du secteur aéronautique et l’utilisation de l’argent public vers des trajectoires compatibles avec les enjeux climatiques et moins dépendantes des approvisionnements en énergie fossile.
+
+En mai 2020 un premier rapport intitulé `Crise(s), climat : préparer l’avenir de l’aviation <https://theshiftproject.org/article/climat-preparer-avenir-aviation-propositions-shift-contreparties/>`_ proposait une série de mesures décarbonantes que l’État pourrait exiger en contrepartie de son soutien au secteur. En ciblant des actions activables immédiatement et aux effets significatifs dès 2025, ce rapport défendait l’idée que le redressement d’un secteur durement touché par la crise n’était pas incompatible avec le lancement d’une politique effective de décarbonation. Bien au contraire : il soutenait que temporiser la transition énergétique de l’aviation la rend d’autant plus vulnérable face à la menace climatique.
+
+Un secteur en mouvement
+***********************
+
+Les neuf mois qui nous séparent de cette publication ont été jalonnés d’événements contrastés. Si Airbus s’est engagé dans la production d’un avion à hydrogène en 2035, si les prises de positions publiques sur la décarbonation de l’aviation se sont multipliées, la crise sanitaire s’est prolongée, affectant l’équilibre financier de nombreux acteurs aujourd’hui confrontés à un risque de faillites sans précédent.
+
+Mais ces neuf mois ont aussi vu de nombreuses voix s’élever, celles d’ingénieurs, de pilotes, de contrôleurs aériens, d’employés de compagnies aériennes et de simples usagers de l’aviation qui se sont reconnus dans le discours du rapport du Shift Project. Exprimer leur intérêt pour la démarche, en souligner les manques et les limites, a conduit un grand nombre d’entre eux à souhaiter poursuivre l’analyse.
+
+Telles sont donc les contributrices et contributeurs de ce nouveau rapport : des professionnels du secteur désireux de se confronter à l’angoissante mais inéluctable question de savoir comment agir aujourd’hui pour continuer à voler demain, dans un monde contraint. Si personne ne mésestime les souffrances et le désarroi causés par la crise du COVID-19, bien plus lourdes sont les menaces que laissent augurer le changement climatique, l’épuisement des énergies fossiles et l’effondrement de la biodiversité sur la vie humaine en général, et sur l’aviation en particulier.
+
+Des professionnels engagés
+**************************
+
+« Nous qui aimons l’aviation et qui pour beaucoup en ont fait leur métier, nous qui aimons la technique, les grandes découvertes, toute cette prodigieuse intelligence humaine mobilisée pour faire voler des machines, nous affirmons aimer plus encore la vie, la nature et la science – cette science qui décrit aussi rigoureusement les phénomènes aérodynamiques et climatiques, cette science dont on ne peut à la fois jouir des bienfaits et ignorer les bouleversements qu’elle projette.
+
+Nous, ingénieurs aéronautique, pilotes, contrôleurs aériens, employés de compagnies aériennes, usagers ou simples amoureux de l’aviation, las des discours clivants à son égard, signons ce rapport avec l’ambition de créer les conditions d’un débat apaisé sur sa capacité à réduire drastiquement ses émissions de gaz à effet de serre, dans des proportions compatibles avec un monde vivable en 2100. Nous, aérophiles climato-concernés, revendiquons pouvoir faire partie de la solution plutôt que du problème, en portant une parole transparente, désintéressée et scientifiquement étayée sur ce que peut faire – mais aussi ne peut faire – le secteur aérien pour se décarboner. »
+
+Tels sont les mots que les professionnels du secteur à l’origine de ces travaux mettent sur leur engagement.
+
+Une étude encore approfondie depuis mai dernier
+***********************************************
+
+La présente étude retravaille les mesures identifiées dans la version de mai 2020, élargit le spectre et l’horizon des propositions, intègre les remarques et les objections formulées depuis lors, notamment par les professionnels du secteur.
+
+Nous proposons ici une étude factuelle et quantitative, basée sur une analyse par scénarios, des trajectoires d’émissions de l’aviation d’ici 2050. Nous adoptions une approche holistique englobant les hypothèses technologiques et énergétiques, les prérequis de leur réalisation, ainsi que les impacts sur les usages et les emplois. L’utilisation des ressources (autres qu’électricité et carburants) et le financement sont des dimensions bien identifiées (souvent déterminantes) mais non quantifiées dans les scénarios.
+
+Une action qui doit bien sûr être à la fois mondiale et européenne, mais aussi immédiatement française
+******************************************************************************************************
+
+Le transport aérien, international par nature, requière un consensus de tous les États (a minima européens dans un premier temps) pour mettre en œuvre sa décarbonation. Quelles seraient en effet les bénéfices d’efforts consentis dans une région du globe si, dans une autre, les émissions n’étaient pas encadrées ?
+
+En cas de non-alignement sur les objectifs et les réglementations, le caractère fortement concurrentiel du transport aérien jouerait inévitablement en défaveur des premiers acteurs à se lancer dans une stratégie bas-carbone. A ce titre, le rapport se penche sur les éléments de gouvernance internationale actuels, en l’occurrence le programme CORSIA1 de l’OACI (Organisation de l‘Aviation Civile Internationale) et le marché du carbone européen EU-ETS (European Union Emissions Trading System), en pointe les atouts et les limites et recommande des ajustements.
+
+Bien que nécessaire, la mise en œuvre d’un accord international sur la décarbonation du secteur aérien prendra du temps.
+
+Dans l’intervalle, l’État français, qui s’est particulièrement intéressé au secteur à travers son plan de soutien à l’aéronautique présenté le 9 juin 2020, peut intervenir efficacement à l’échelle nationale sans attendre l’atteinte d’un consensus plus large. Dans un contexte d’urgence climatique où le temps joue contre nous, ce rapport défend ainsi la nécessité d’agir conjointement aux niveaux national et international.
+
+Les objectifs de ce rapport
+***************************
+
+#. Proposer la définition et l’instauration d’un budget carbone pour le transport aérien ;
+#. Chiffrer les mesures de décarbonation proposées par le secteur via une analyse par scénario ;
+#. Soumettre deux scénarios de décarbonation à l’épreuve du budget carbone, afin d’en tirer des conclusions ;
+#. Lister les mesures de décarbonation activables rapidement au niveau national.
+
+Ce travail a été réalisé avec l’aide des Shifters, association des bénévoles de The Shift Project, ainsi que du CPLC (Citoyens pour le Climat). Il est composé d’un rapport complet, d’une synthèse et d’une note méthodologique.
+
+Contacts techniques :
+*********************
+
+Olivier Del Bucchia, Chef de projet du rapport et co-fondateur du collectif Supaéro Décarbo
+
+`olivier@goliveprojet.com <mailto:olivier@goliveprojet.com>`_
+
+Grégoire Carpentier, Chef de projet du rapport et co-fondateur du collectif Supaéro Décarbo
+
+`gregoire.carpentier@gmail.com <mailto:gregoire.carpentier@gmail.com>`_
+
+Contact presse :
+****************
+
+Ilana Toledano, Responsable de la communication – The Shift Project
+
+`ilana.toledano@theshiftproject.org <mailto:ilana.toledano@theshiftproject.org>`_ / 06 01 19 64 04

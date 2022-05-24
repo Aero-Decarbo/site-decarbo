@@ -153,6 +153,7 @@ NAVIGATION_LINKS = {
           ('/equipe.html',   "L'équipe"),
           ('/amis.html',     "Collectifs amis")),         "Qui sommes-nous"),
         ("/rejoindre.html",  "Nous rejoindre"),
+        ("/blog/index.html", "Blog"),
     ),
 
     "en": (
@@ -168,40 +169,10 @@ NAVIGATION_LINKS = {
           ('/en/team.html',     "Our team"),
           ('/en/friends.html',  "Our friends")),         "Who are we"),
         ("/en/join.html",       "Join us"),
+        ("/en/blog/index.html", "Blog"),
     ),
 }
-#Si jamais on veut remettre "pages" dans le chemin des pages
-#NAVIGATION_LINKS = {
-#    DEFAULT_LANG: (
-#        ("/pages/index.html",      "Accueil"),
-#        ("/pages/engagement.html", "Notre engagement"),
-#        ((("/pages/pve2050.html",   "Pouvoir voler en 2050"),
-#          ('/pages/spatial.html',  "Rapport spatial (à venir)"),
-#          ('/pages/lettres.html',  "Lettres ouvertes"),
-#          ('/pages/travaux-divers.html', "Divers")),              "Nos travaux"),
-#        ("/pages/expertise.html",  "Notre expertise"),
-#        ((("/pages/histoire.html",  "Notre histoire"),
-#          ('/pages/valeurs.html',  "Nos valeurs"),
-#          ('/pages/equipe.html',   "L'équipe"),
-#          ('/pages/amis.html',     "Collectifs amis")),         "Qui sommes-nous"),
-#        ("/pages/rejoindre.html",  "Nous rejoindre"),
-#    ),
-#
-#    "en": (
-#        ("/en/pages/home.html",       "Home"),
-#        ("/en/pages/commitment.html", "Our commitment"),
-#        ((("/en/pages/pve2050.html",  "Flying in 2050"),
-#          ('/en/pages/spatial.html',  "Spatial report (coming)"),
-#          ('/en/pages/letters.html',  "Open letters"),
-#          ('/en/pages/sundry.html',   "Sundry")),              "Our work"),
-#        ("/en/pages/expertise.html",  "Our expertise"),
-#        ((("/en/pages/history.html",  "Our history"),
-#          ('/en/pages/values.html',   "Our values"),
-#          ('/en/pages/team.html',     "Our team"),
-#          ('/en/pages/friends.html',  "Our friends")),         "Who are we"),
-#        ("/en/pages/join.html",       "Join us"),
-#    ),
-#}
+
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
@@ -292,10 +263,10 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
+    ("posts/*.rst", "blog", "post.tmpl"),
+    ("posts/*.md", "blog", "post.tmpl"),
+    ("posts/*.txt", "blog", "post.tmpl"),
+    ("posts/*.html", "blog", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "", "page.tmpl"),
@@ -640,9 +611,9 @@ INDEX_PATH = "blog"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
-FRONT_INDEX_HEADER = {
-    DEFAULT_LANG: 'blarg'
-}
+#FRONT_INDEX_HEADER = {
+#    DEFAULT_LANG: ''
+#}
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
@@ -737,7 +708,7 @@ REDIRECTIONS = []
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
 GITHUB_SOURCE_BRANCH = 'src'
-GITHUB_DEPLOY_BRANCH = 'master'
+GITHUB_DEPLOY_BRANCH = 'gh-pages'
 
 # The name of the remote where you wish to push to, using github_deploy.
 GITHUB_REMOTE_NAME = 'origin'

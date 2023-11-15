@@ -1,4 +1,4 @@
-.. title: Able to fly in 2050
+.. title: Flying in 2050
 .. slug: pve2050
 .. date: 2022-03-09 14:40:12 UTC+01:00
 .. tags: 
@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-The Shift and the Supaéro Décarbo collective (ancestor of the Aéro Décarbo association) published their new report on decarbonization of the aviation sector, "Able to fly in 2050: what aviation in a constrained world?" on Wednesday, March 3, 2021. This report followed the Shift's initial work on the subject with the May 2020 publication of "Crisis(-es), climate: preparing the future of aviation."
+The Shift Project and the Supaéro Décarbo collective (ancestor of the Aéro Décarbo association) published their new report on decarbonization of the aviation sector, "Flying in 2050: Which aviation in a constrained world?" on Wednesday, March 3, 2021. This report followed the Shift Project's initial work on the subject with the May 2020 publication of "Crisis(-es), climate: preparing the future of aviation."
 
 How can we act today to keep flying tomorrow in a constrained world? How can we steer the aviation sector towards trajectories that are compatible with climate issues and less dependent on fossil fuel resources?
 
@@ -38,7 +38,7 @@ How can we act today to keep flying tomorrow in a constrained world? How can we 
          :target: https://theshiftproject.org/wp-content/uploads/2021/03/Pouvoir-voler-en-2050_Shift-Project_Synthese.pdf
 
 
-Replay of the presentation webinar of the report "Able to fly in 2050" - Wednesday, March 3, 2021
+Replay of the presentation webinar of the report "Flying in 2050" - Wednesday, March 3, 2021
 
 .. youtube:: u3nKE14K3fQ
    :align: center
@@ -46,8 +46,8 @@ Replay of the presentation webinar of the report "Able to fly in 2050" - Wednesd
 The presentation materials are available `under this link <https://bit.ly/3kVqmlS>`_.
 
 
-Able to fly in 2050: what aviation in a constrained world?
-##########################################################
+Flying in 2050: Which aviation in a constrained world?
+######################################################
 
 Few sectors occupy such a singular place in the energy transition landscape as aviation. As a cutting-edge industry with negligible climate impact for its defenders, and a fad of the ultra-rich who are used to minimizing their emissions for its detractors, it generates divisive opinions and sometimes sterile opposition.
 
@@ -104,14 +104,20 @@ This work was carried out with the help of The Shift Project's volunteer associa
 Technical contacts:
 *******************
 
-Olivier Del Bucchia, Project manager of the report and co-founder of the Supaéro Décarbo collective
-`olivier@goliveprojet.com <mailto:olivier@goliveprojet.com>`_
-
-Grégoire Carpentier, Project manager of the report and co-founder of the Supaéro Décarbo collective
-`gregoire.carpentier@gmail.com <mailto:gregoire.carpentier@gmail.com>`_
+| **Olivier Del Bucchia**
+| Report Project Manager
+| Co-founder of the Supaéro Décarbo collective
+| `olivier@goliveprojet.com <mailto:olivier@goliveprojet.com>`_
+| 
+| **Grégoire Carpentier**
+| Report Project Manager
+| Co-founder of the Supaéro Décarbo collective
+| `gregoire.carpentier@theshiftproject.org <mailto:gregoire.carpentier@theshiftproject.org>`_
 
 Media contact:
 **************
 
-Ilana Toledano, Head of communication – The Shift Project
-`ilana.toledano@theshiftproject.org <mailto:ilana.toledano@theshiftproject.org>`_ / 06 01 19 64 04
+| **Ilana Toledano**
+| Head of communication @The Shift Project
+| `ilana.toledano@theshiftproject.org <mailto:ilana.toledano@theshiftproject.org>`_ 
+| +33 6 01 19 64 04

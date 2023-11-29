@@ -6,7 +6,7 @@
 }
 
 .blog-header-logo {
-  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-family: "Verdana", "Geneva", "Tahoma", "sans-serif"
   font-size: 2.25rem;
 }
 
@@ -15,7 +15,7 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-family: "Verdana", "Geneva", "Tahoma", "sans-serif"
 }
 
 h1, h1 a {
@@ -23,11 +23,17 @@ h1, h1 a {
 }
 
 a {
-  color: #8e0007;
+  color: #e40009;
+}
+
+a:hover {
+  color: #420002;
+  text-decoration: none;
 }
 
 h2, h3, h4, h5, h6 {
-  color: #b70009;
+  color: #e40009;
+  padding-top: 30px;
 }
 
 .display-4 {

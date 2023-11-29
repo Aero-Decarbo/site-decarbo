@@ -15,7 +15,13 @@ Pour éditer les fichiers, un éditeur de texte basique suffit, mais vous pouvez
 
 # Modifications
 
-Après toute modification, il faut lancer la commande `nikola build` pour mettre à jour le site, puis `nikola serve --browser` pour lancer un serveur web local vous permettant de consulter le site dans votre navigateur.
+Après toute modification, il faut lancer la commande `nikola build` pour mettre à jour le site, puis `nikola serve --browser` pour lancer un serveur web local vous permettant de consulter le site dans votre navigateur. 
+
+## Déploiement
+
+Après les commandes précédentes, vos modifications n’existent que sur votre ordinateur. Pour les déployer sur l’hébergement Github Pages que nous utilisons actuellement, une commande est prévue de base dans Nikola : `nikola github_deploy`.
+
+Comme expliqué dans [le manuel de Nikola](https://getnikola.com/handbook.html#deploying-to-github), cette commande bascule sur une nouvelle branche de votre projet Git nommée `gh-pages` dans laquelle elle vient déposer les fichiers du site via un commit automatique, puis elle pousse ces modifications vers Github. Avant de faire cela, il est préférable de committer de votre côté les modifications du code source (branche `src`) avec un message explicite quant aux modifications que vous avez réalisées.
 
 
 ## Contenu :

@@ -8,27 +8,30 @@
 .. type: text
 
 # Executive committee
-President: Olivier Del Bucchia
 
-Treasurer: Tatiana Spassky
+President: Marlène de Bank  
+Vice President : Olivier Del Bucchia
 
-Secretary: Grégoire Carpentier
+Treasurer: Jules Richard  
+Vice Treasurer : Tatiana Spassky
+
+Secretary: Clément Jarrossay
 
 # Board of directors
 The association’s board is currently made up of the 12 founding members:
 
+- Loïc Bonifacio
 - Angela Bovo
 - Grégoire Carpentier
-- Olivier Cœurdray
+- Marlène de Bank
 - Olivier Del Bucchia
-- Fabien Dornier
-- Nicolas Gourdain
-- Bich Ha Duong
+- Julien Doche
 - Clément Jarrossay
+- Eliott Marceau
+- Loïs Miraux
 - Florent Nobelen
 - Jules Richard
 - Tatiana Spassky
-- Germain Yon
 
 # Members
 We are currently 96 members.

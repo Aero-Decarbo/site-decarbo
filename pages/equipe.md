@@ -7,30 +7,34 @@
 .. description: 
 .. type: text
 
-# Le bureau
-Président : Olivier Del Bucchia
+# Le bureau 
 
-Trésorière : Tatiana Spassky
+Présidente : Marlène De Bank  
+Vice-président : Olivier Del Bucchia
 
-Secrétaire : Grégoire Carpentier
+Trésorier : Jules Richard  
+Vice-Trésorière : Tatiana Spassky
+
+Secrétaire : Clément Jarrossay
+
 
 # Le CA
-Le CA de l'association est actuellement constitué des 12 membres fondateurs :
+Le CA de l'association est actuellement constitué de 12 membres :
 
+- Loïc Bonifacio
 - Angela Bovo
 - Grégoire Carpentier
-- Olivier Cœurdray
+- Marlène de Bank
 - Olivier Del Bucchia
-- Fabien Dornier
-- Nicolas Gourdain
-- Bich Ha Duong
+- Julien Doche
 - Clément Jarrossay
+- Eliott Marceau
+- Loïs Miraux
 - Florent Nobelen
 - Jules Richard
 - Tatiana Spassky
-- Germain Yon
 
 # Les membres
-Nous sommes actuellement 96 membres.
+Nous sommes actuellement 125 membres.
 
 ![Graphique camembert catégorisant les membres actuels](/images/membres.png "Répartition des membres actuels")

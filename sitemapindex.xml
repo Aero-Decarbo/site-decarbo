@@ -6,23 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://decarbo.org/en/galleries/rss.xml</loc>
-  <lastmod>2022-05-24T19:55:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://decarbo.org/en/rss.xml</loc>
-  <lastmod>2022-05-19T14:50:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://decarbo.org/galleries/rss.xml</loc>
-  <lastmod>2022-05-24T19:55:00Z</lastmod>
+  <lastmod>2023-12-06T14:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://decarbo.org/rss.xml</loc>
-  <lastmod>2022-05-19T14:50:00Z</lastmod>
+  <lastmod>2023-12-06T14:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://decarbo.org/sitemap.xml</loc>
-  <lastmod>2023-11-29T23:01:00Z</lastmod>
+  <lastmod>2023-12-06T15:49:00Z</lastmod>
  </sitemap>
 </sitemapindex>

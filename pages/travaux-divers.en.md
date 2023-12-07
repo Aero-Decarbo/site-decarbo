@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-- [Physics 101 for curious and conscious drivers](https://drive.google.com/file/d/1yNK8ZwcaLvyspRP4S6I9oubqVu9WMXK-/view?usp=drive_link), by Olivier Del Bucchia (*Sept. 2019, Available in French only*)
+- [Physics 101 for curious and conscious drivers](https://drive.google.com/file/d/1yNK8ZwcaLvyspRP4S6I9oubqVu9WMXK-/view?usp=drive_link), by Olivier Del Bucchia (*Sept. 2019 - Available in French only*)
 
 <span style="line-height:0.5;font-size:12px;font-style: italic;">If you are a conscientious driver, this is not breaking news: a significant portion of air pollution and greenhouse gas emissions contributing to climate change, including the famous CO2 (carbon dioxide), comes from transportation and petrol engines.</span>
 

@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Le Shift et le collectif Supaéro Décarbo (ancêtre de l’association Aéro Décarbo) ont publié mercredi 3 mars 2021 leur nouveau rapport sur la décarbonation du secteur aérien, « Pouvoir voler en 2050 : quelle aviation dans un monde contraint ? » Ce rapport faisait suite aux premiers travaux du Shift sur le sujet avec la publication en mai 2020 de « Crise(s), climat : préparer l’avenir de l’aviation ».
+Le `Shift Project <https://theshiftproject.org>`_ et le collectif Supaéro Décarbo (ancêtre de l’association Aéro Décarbo) ont publié mercredi 3 mars 2021 leur nouveau rapport sur la décarbonation du secteur aérien, « Pouvoir voler en 2050 : quelle aviation dans un monde contraint ? » Ce rapport faisait suite aux premiers travaux du Shift sur le sujet avec la publication en mai 2020 de « Crise(s), climat : préparer l’avenir de l’aviation ».
 
 Comment agir aujourd’hui pour continuer à voler demain, dans un monde contraint ? Comment orienter le secteur aéronautique vers des trajectoires compatibles avec les enjeux climatiques et moins dépendantes des approvisionnements en énergies fossiles ?
 

@@ -240,3 +240,10 @@ article .metadata {
         text-align: center;
     }
 }
+
+/*custom*/
+.ad_preview{
+  font-size:12px;
+  font-style: italic;
+  text-align: justify;
+}

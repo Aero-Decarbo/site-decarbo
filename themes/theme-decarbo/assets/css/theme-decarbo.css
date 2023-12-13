@@ -31,9 +31,18 @@ a:hover {
   text-decoration: none;
 }
 
-h2, h3, h4, h5, h6 {
+h2, h3, h4, h5 {
   color: #e40009;
   padding-top: 30px;
+}
+
+h6 {
+  color: #e40009;
+  
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 .display-4 {
@@ -246,4 +255,30 @@ article .metadata {
   font-size:12px;
   font-style: italic;
   text-align: justify;
+}
+.ad_ref{
+  font-size:12px;
+  font-style: italic;
+}
+.accordion-section {
+  margin-bottom: 1rem;
+}
+
+.accordion-header {
+  cursor: pointer;
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  line-height: 11px;
+  text-align: center;
+  border-radius: 50%;
+  border: 0.5px solid #999;
+  font-size: 15px;
+  color:#999;
+}
+.accordion-content {
+  display: none;
+}
+.accordion-content.active {
+  display: block;
 }

@@ -7,7 +7,21 @@ ${base.html_headstart()}
 ### Leave this block alone.
 </%block>
 ${template_hooks['extra_head']()}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+              var accordionSections = document.querySelectorAll('.accordion-section');
+              accordionSections.forEach(function(section) {
+                  var header = section.querySelector('.accordion-header');
+                  var content = section.querySelector('.accordion-content');
+                  header.addEventListener('click', function() {
+                      header.innerHTML = (header.innerHTML == "+") ? "-" : "+"; 
+                      content.classList.toggle('active');
+                  });
+              });
+          });
+</script>
 </head>
+
 <body>
 <a href="#content" class="sr-only sr-only-focusable">${messages("Skip to main content")}</a>
 

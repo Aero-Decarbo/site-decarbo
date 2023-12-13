@@ -31,6 +31,19 @@ Director of the publi">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2022-03-30T12:10:33+02:00">
 <link rel="alternate" hreflang="fr" href="../mentions-legales.html">
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+              var accordionSections = document.querySelectorAll('.accordion-section');
+              accordionSections.forEach(function(section) {
+                  var header = section.querySelector('.accordion-header');
+                  var content = section.querySelector('.accordion-content');
+                  header.addEventListener('click', function() {
+                      header.innerHTML = (header.innerHTML == "+") ? "-" : "+"; 
+                      content.classList.toggle('active');
+                  });
+              });
+          });
+</script>
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>

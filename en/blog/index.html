@@ -20,7 +20,19 @@
 <link rel="icon" href="../../favicon.ico" sizes="16x16">
 <link rel="icon" href="../../favicon-16x16.png" sizes="16x16">
 <link rel="icon" href="../../favicon-32x32.png" sizes="32x32">
-<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><script>
+  document.addEventListener('DOMContentLoaded', function() {
+              var accordionSections = document.querySelectorAll('.accordion-section');
+              accordionSections.forEach(function(section) {
+                  var header = section.querySelector('.accordion-header');
+                  var content = section.querySelector('.accordion-content');
+                  header.addEventListener('click', function() {
+                      header.innerHTML = (header.innerHTML == "+") ? "-" : "+"; 
+                      content.classList.toggle('active');
+                  });
+              });
+          });
+</script>
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>

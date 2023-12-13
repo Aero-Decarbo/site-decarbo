@@ -39,6 +39,19 @@ Comment agir aujourd’hui pour continuer à voler demain, dans un monde c">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2022-03-09T14:02:13+01:00">
 <link rel="alternate" hreflang="en" href="en/">
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+              var accordionSections = document.querySelectorAll('.accordion-section');
+              accordionSections.forEach(function(section) {
+                  var header = section.querySelector('.accordion-header');
+                  var content = section.querySelector('.accordion-content');
+                  header.addEventListener('click', function() {
+                      header.innerHTML = (header.innerHTML == "+") ? "-" : "+"; 
+                      content.classList.toggle('active');
+                  });
+              });
+          });
+</script>
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Aller au contenu principal</a>

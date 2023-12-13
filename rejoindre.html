@@ -28,6 +28,19 @@ Pour nous rejoindre, il vous faudra au préalable prendre connaissance de nos st
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2022-03-09T17:20:48+01:00">
 <link rel="alternate" hreflang="en" href="en/join.html">
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+              var accordionSections = document.querySelectorAll('.accordion-section');
+              accordionSections.forEach(function(section) {
+                  var header = section.querySelector('.accordion-header');
+                  var content = section.querySelector('.accordion-content');
+                  header.addEventListener('click', function() {
+                      header.innerHTML = (header.innerHTML == "+") ? "-" : "+"; 
+                      content.classList.toggle('active');
+                  });
+              });
+          });
+</script>
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Aller au contenu principal</a>

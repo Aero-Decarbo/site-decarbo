@@ -159,7 +159,7 @@ NAVIGATION_LINKS = {
     "en": (
         ("/en/index.html",      "Home"),
         ("/en/commitment.html", "Our commitment"),
-        ((("/en/pve2050.html",  "Keep flying in 2050"),
+        ((("/en/pve2050.html",  "Flying in 2050"),
           ('/en/spatial.html',  "Spatial report (coming)"),
           ('/en/letters.html',  "Open letters"),
           ('/en/sundry.html',   "Sundry")),              "Our work"),

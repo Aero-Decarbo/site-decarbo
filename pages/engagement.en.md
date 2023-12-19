@@ -7,11 +7,12 @@
 .. description: 
 .. type: text
 
-Few sectors occupy such a singular place in the energy transition landscape as aviation. As a cutting-edge industry with negligible climate impact for its defenders, and a fad of the ultra-rich who are used to minimizing their emissions for its detractors, it generates divisive opinions and sometimes sterile opposition.
 
-The authors of this report support the idea that beyond these extreme positions, another voice must be heard.
+The aerospace sector holds a special place, both in the hearts and in the landscape of the energy transition. Cutting-edge industries, driven by dreams and achievements, with negligible climate impact, contributing to the exploration of the world and the progress of scientific knowledge for its advocates, but distant, costly, and super-luxurious activity as a whim of the ultra-rich who are adept at minimizing their emissions from the perspective of their critics.
 
-We who love aviation and who, for many, have made it their profession, we who love technology, the great discoveries, all this prodigious human intelligence mobilized to make machines fly, we affirm that we love life, nature and science even more - this science which also rigorously describes aerodynamic and climate phenomena, this science whose benefits we cannot enjoy while ignoring the upheavals that it announces.
+AÉRO DÉCARBO supports the idea that beyond these often caricatured positions presented to the public, another voice deserves to be heard.
 
-We, aeronautical engineers, pilots, air traffic controllers, airline employees, users or simple lovers of aviation, tired of the divisive discourses towards it, sign this report with the ambition of creating the conditions for a peaceful debate on its capacity to drastically reduce its greenhouse gas emissions, in proportions compatible with a world that is liveable in 2100. We, climate-conscious aerophiles, claim to be part of the solution rather than part of the problem, by providing a transparent, disinterested and scientifically supported voice on what the aviation sector can do - but also cannot do - to decarbonize.
+We, who love aviation, space, and for many, have made it our profession, who appreciate technology, great discoveries, all this prodigious human intelligence mobilized to make machines fly towards ever more distant horizons, assert that we love life, nature, and science even more — this science which describes aerodynamic as rigorously as climatic phenomena, from which we cannot both enjoy the benefits and ignore the disruptions it projects.
+
+We, aerospace engineers, pilots, air traffic controllers, airline employees, users, or simple lovers of aerospace, express the ambition to create the conditions for a peaceful debate on the sector's ability to control its greenhouse gas emissions, survive, and thrive in a world with finite resources and in proportions compatible with a livable world in 2100. We, climate-concerned & aerospace enthusiasts, claim to be able to be part of the solution rather than the problem, by advocating for a transparent, disinterested, and scientifically supported discourse on what the aerospace sector can - and cannot - do to decarbonize.
 

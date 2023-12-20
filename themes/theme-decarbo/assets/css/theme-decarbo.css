@@ -270,7 +270,7 @@ article .metadata {
   line-height: 11px;
   text-align: center;
   border-radius: 50%;
-  border: 0.5px solid #999;
+  border: 0.5px solid #fafafa;
   font-size: 15px;
   color:#999;
 }
@@ -284,4 +284,9 @@ article .metadata {
 .adjustify {
   text-align: justify!important;
   margin-bottom: 0;
+}
+
+.ad_img_accueil {
+  max-width: 100%; 
+  max-height: 200px;
 }

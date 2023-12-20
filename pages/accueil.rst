@@ -13,10 +13,12 @@ Bienvenue sur le site de l'association Aéro Décarbo !
    :widths: 20 10 70
    :align: center
    
-   * - .. image:: /images/pve2050-rapport.jpg
-          :height: 200
-          :alt: Couverture du rapport Pouvoir voler en 2050 et lien vers le rapport
-          :target: link://slug/pve2050
+   * - 
+        .. raw:: html
+
+          <a href="link://slug/pve2050">
+            <img src="/images/pve2050-rapport.jpg" class="ad_img_accueil" alt="Couverture du rapport Pouvoir voler en 2050 et lien vers le rapport">
+          </a>
      - 
      - **Découvrez notre rapport sur la décarbonation du secteur aérien :**
        
@@ -37,19 +39,24 @@ Bienvenue sur le site de l'association Aéro Décarbo !
        
        `Cliquez ici pour nos explications ! <link://slug/engagement>`_
      - 
-     - .. image:: /images/contrails.jpg
-          :height: 200
-          :alt: Image de traînées de condensation et lien vers la page d’explications
-          :target: link://slug/engagement
+     - 
+        .. raw:: html
+
+          <a href="link://slug/engagement">
+            <img src="/images/contrails.jpg" class="ad_img_accueil" alt="Image de traînées de condensation et lien vers la page d’explications">
+          </a>
 
 .. list-table::
    :widths: 40 10 50
    :align: center
    
-   * - .. image:: /images/joinus-airbus.jpg
-          :height: 200
-          :alt: Image de Béluga sur lequel il est peint "Join us" et lien vers la page "Nous rejoindre"
-          :target: link://slug/rejoindre
+   * - 
+        .. raw:: html
+
+          <a href="link://slug/rejoindre">
+            <img src="/images/joinus-airbus.jpg" class="ad_img_accueil" alt=" Image de Béluga sur lequel il est peint 'Join us' et lien vers la page 'Nous rejoindre'">
+          </a>
+   
      - 
      - **Rejoignez l’association**
        
@@ -81,5 +88,5 @@ Bienvenue sur le site de l'association Aéro Décarbo !
         .. raw:: html
 
             <a href="https://www.websitecarbon.com/website/decarbo-org/" target="_blank">
-            <img src="/images/Carbon_Calc_Decarbo.jpg" height="200" alt="Score du site decarbo.org">
+              <img src="/images/Carbon_Calc_Decarbo.jpg" class="ad_img_accueil" alt="Score du site decarbo.org">
             </a>

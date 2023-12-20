@@ -13,10 +13,12 @@ Welcome to the Aero Decarbo association website !
    :widths: 20 10 70
    :align: center
    
-   * - .. image:: /images/pve2050-rapport.jpg
-          :height: 200
-          :alt: Cover of the report Able to fly in 2050 and link to the report
-          :target: link://slug/pve2050
+   * - 
+        .. raw:: html
+
+          <a href="link://slug/pve2050">
+            <img src="/images/pve2050-rapport.jpg" class="ad_img_accueil" alt="Cover of the report Able to fly in 2050 and link to the report">
+          </a>
      - 
      - **Discover our report on the decarbonization of the aviation sector :**
        
@@ -37,19 +39,24 @@ Welcome to the Aero Decarbo association website !
        
        `Click here for our explanations! <link://slug/commitment>`_
      - 
-     - .. image:: /images/contrails.jpg
-          :height: 200
-          :alt:  Image of contrails and link to the explanations page
-          :target: link://slug/commitment
+     - 
+        .. raw:: html
+
+          <a href="link://slug/commitment">
+            <img src="/images/contrails.jpg" class="ad_img_accueil" alt="Image de traînées de condensation et lien vers la page d’explications">
+          </a>
 
 .. list-table::
    :widths: 40 10 50
    :align: center
    
-   * - .. image:: /images/joinus-airbus.jpg
-          :height: 200
-          :alt: Image of Beluga on which is painted "Join us" and link to the page "Join us"
-          :target: link://slug/join
+   * - 
+        .. raw:: html
+
+          <a href="link://slug/join">
+            <img src="/images/joinus-airbus.jpg" class="ad_img_accueil" alt=" Image de Béluga sur lequel il est peint 'Join us' et lien vers la page 'Nous rejoindre'">
+          </a> 
+
      - 
      - **Join the association**
        

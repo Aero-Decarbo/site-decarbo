@@ -12,7 +12,7 @@ Voici une liste de nos prises de positions publiques.
 <ul>
     <li>
         <a href=https://drive.google.com/file/d/144PwEGdya0rvpkUNEb1qsz2UqGmSX6u5/view?usp=sharing target=_blank>Lettre ouverte à l’attention du gouvernement francais</a>
-        <span class="ad_ref">(SUPAERO DECARBO, 19 Juin 202)</span>
+        <span class="ad_ref">(SUPAERO DECARBO, 19 Juin 2020)</span>
     </li>
     <div class="accordion-section">
         <div class="accordion-header">-</div>

@@ -9,11 +9,11 @@
 
 # Le bureau 
 
-Présidente : Marlène De Bank  
-Vice-président : Olivier Del Bucchia
+**Présidente** : Marlène De Bank  
+__Vice-président__ : Olivier Del Bucchia
 
 Trésorier : Jules Richard  
-Vice-Trésorière : Tatiana Spassky
+Vice-trésorière : Tatiana Spassky
 
 Secrétaire : Clément Jarrossay
 

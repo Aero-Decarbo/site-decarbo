@@ -37,12 +37,12 @@ Welcome to the Aero Decarbo association website !
        
        What part does it play?
        
-       `Click here for our explanations! <link://slug/commitment>`_
+       `Click here for our explanations! <link://slug/pve2050>`_
      - 
      - 
         .. raw:: html
 
-          <a href="link://slug/commitment">
+          <a href="link://slug/pve2050">
             <img src="/images/contrails.jpg" class="ad_img_accueil" alt="Image de traînées de condensation et lien vers la page d’explications">
           </a>
 

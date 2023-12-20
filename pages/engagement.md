@@ -8,7 +8,7 @@
 .. type: text
 
 
-Les secteurs aériens et spatial occupent un place particulière, dans les coeurs comme dans le paysage de la transition énergétique. Industries de pointe, du rêve et de l'exploit, à l’impact climatique négligeable, contribuant à la découverte du monde et au progrès scientifique pour leurs défenseurs, activité coûteuse et superlu ou lubie des ultra-riches rompus à l’exercice de minimiser leurs émissions pour leurs détracteurs.
+Les secteurs aériens et spatial occupent un place particulière, dans les coeurs comme dans le paysage de la transition énergétique. Industries de pointe, du rêve et de l'exploit, à l’impact climatique négligeable, contribuant à la découverte du monde et au progrès scientifique pour leurs défenseurs, activité coûteuse et superflue, lubie des ultra-riches rompus à l’exercice de minimiser leurs émissions pour leurs détracteurs.
 
 AÉRO DÉCARBO soutient l’idée que, par-delà ces positions caricaturales trop souvent exposées au grand public, une autre voix mérite se faire entendre.
 

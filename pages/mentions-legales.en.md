@@ -48,4 +48,12 @@ This website was designed with [Nikola](https://getnikola.com/).
 
 ## Ecological website
 
-We have tried to minimize the carbon footprint of this website to the best of our knowledge. If you think you can help us voluntarily to further improve this footprint, please contact us (contact AT decarbo.org).
+We have tried to minimize the carbon footprint of this website to the best of our knowledge. It can be assessed using the [Website Carbon Calculator](https://www.websitecarbon.com/){:target="_blank"}.
+
+__[Decarbo.org thus receives the best possible rating (A+) on this calculator.](https://www.websitecarbon.com/website/decarbo-org/){:target="_blank"}__  
+
+If you believe you can volunteer to further improve this footprint, please feel free to contact us at <a href="mailto:contact@decarbo.org">contact@decarbo.org</a>.
+
+## Copyright
+
+Copyright Aéro Décarbo 2022.

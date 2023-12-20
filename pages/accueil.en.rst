@@ -59,3 +59,26 @@ Welcome to the Aero Decarbo association website !
        
        `Join us today! <link://slug/join>`_
 
+.. list-table::
+   :widths: 70 10 30
+   :align: center
+   
+   * - **Everything about the carbon footprint of this site:**
+       
+       .. raw:: html
+
+          <div style="font-size:1rem;">
+         The carbon footprint of Decarbo.org is rated A+ on the <a href="https://www.websitecarbon.com/" target="_blank" >Website Carbon Calculator</a>.<br>
+       
+          If you believe you can help us improve even further in this regard, feel free to contact us at <a href="mailto:contact@decarbo.org">(contact@decarbo.org)</a>.<br>        
+
+          <a href="https://www.websitecarbon.com/website/decarbo-org/" target="_blank" >Click here to see the details of our evaluation and learn more about the methodology used.</a>
+          </div>
+
+     - 
+     - 
+        .. raw:: html
+
+            <a href="https://www.websitecarbon.com/website/decarbo-org/" target="_blank">
+            <img src="/images/Carbon_Calc_Decarbo.jpg" height="200" alt="Score of the decarbo.org site">
+            </a>

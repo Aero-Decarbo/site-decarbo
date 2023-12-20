@@ -16,7 +16,7 @@ Directeur de la publication : Olivier Del Bucchia
 
 ##Hébergement
 
-Hébergeur du site : [IONOS](https://www.ionos.fr)
+Hébergeur du site : [IONOS](https://www.ionos.fr){:target="_blank"}
 
 1&1 Internet SARL :  
 7, place de la Gare  
@@ -36,7 +36,7 @@ Allemagne
 
 De façon générale, notre site web n’utilise aucun cookie et ne collecte aucune donnée personnelle.
 
-Il peut toutefois comporter des intégrations vidéos. Concernant l’API YouTube, veuillez vous référer aux Conditions Générales de YouTube disponibles sur [YouTube Terms of Service](https://www.youtube.com/t/terms).
+Il peut toutefois comporter des intégrations vidéos. Concernant l’API YouTube, veuillez vous référer aux Conditions Générales de YouTube disponibles sur [YouTube Terms of Service](https://www.youtube.com/t/terms){:target="_blank"}.
 
 Il comporte également un lien vers un formulaire vous permettant de demander l’adhésion à l’association, auquel cas vos données personnelles seront collectées via ce formulaire dans un fichier informatique afin d’analyser votre candidature conformément à nos statuts. Si vous devenez membre de l’association, vos données personnelles seront conservées durant toute la durée de votre adhésion et seront accessibles par le Conseil d’administration de l’association afin de vous contacter ou d’établir des statistiques anonymes. Le responsable du traitement de vos données dans ce cadre est le président de l’association, Olivier Del Bucchia.
 
@@ -44,11 +44,15 @@ Vous pouvez à tout moment exercer vos droits d’accès, modification, portabil
 
 ##Remerciements
 
-Ce site web a été conçu avec [Nikola](https://getnikola.com/).
+Ce site web a été conçu avec [Nikola](https://getnikola.com/){:target="_blank"}.
 
 ##Site écologique
 
-Nous avons essayé de minimiser l’empreinte carbone de ce site web au mieux selon nos connaissances. Si vous pensez pouvoir nous aider bénévolement à améliorer encore cette empreinte, n’hésitez pas à nous contacter (contact AT decarbo.org).
+Nous avons essayé de minimiser l’empreinte carbone de ce site web au mieux selon nos connaissances. Elle peut être évaluée avec le [Website Carbon Calculator](https://www.websitecarbon.com/){:target="_blank"}.
+
+__[Decarbo.org obtient ainsi la meilleure évaluation possible (A+) sur ce calculateur.](https://www.websitecarbon.com/website/decarbo-org/){:target="_blank"}__  
+
+ Si vous pensez pouvoir nous aider bénévolement à améliorer encore cette empreinte, n’hésitez pas à nous contacter à l'adresse <a href="mailto:contact@decarbo.org">contact@decarbo.org</a>.
 
 ## Copyright
 

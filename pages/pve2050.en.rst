@@ -11,7 +11,7 @@
 .. raw:: html
 
    <div style="margin-bottom: 10px;">
-   <a href="https://theshiftproject.org" target="_blank" ><i>The Shift Project</i></a> and the Supaéro Décarbo collective (ancestor of the Aéro Décarbo association) published their new report on decarbonization of the aviation sector, "Flying in 2050: Which aviation in a constrained world?" on Wednesday, March 3, 2021. This report followed the Shift Project's initial work on the subject with the May 2020 publication of "Crisis(-es), climate: preparing the future of aviation."
+   <a href="https://theshiftproject.org" target="_blank" ><i>The Shift Project</i></a> and the Supaéro Décarbo collective (ancestor of the Aéro Décarbo association) published their new report on decarbonization of the aviation sector, "Flying in 2050: Future of aviation under climate and energy constraints" on Wednesday, March 3, 2021. This report followed the Shift Project's initial work on the subject with the May 2020 publication of "Crisis(-es), climate: preparing the future of aviation."
    </div>
 
 How can we act today to keep flying tomorrow in a constrained world? How can we steer the aviation sector towards trajectories that are compatible with climate issues and less dependent on fossil fuel resources?
@@ -51,8 +51,8 @@ Replay of the presentation webinar of the report "Flying in 2050" - Wednesday, M
 The presentation materials are available `under this link <https://bit.ly/3kVqmlS>`_.
 
 
-Flying in 2050: Which aviation in a constrained world?
-###########################################################
+Flying in 2050: Future of aviation under climate and energy constraints
+#######################################################################
 
 Few sectors occupy such a singular place in the energy transition landscape as aviation. As a cutting-edge industry with negligible climate impact for its defenders, and a fad of the ultra-rich who are used to minimizing their emissions for its detractors, it generates divisive opinions and sometimes sterile opposition.
 

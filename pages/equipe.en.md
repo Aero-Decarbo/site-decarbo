@@ -9,13 +9,13 @@
 
 # Executive committee
 
-President: Marlène de Bank  
-Vice President : Olivier Del Bucchia
+__Présidente__ : Marlène De Bank  
+__Vice-président__ : Olivier Del Bucchia
 
-Treasurer: Jules Richard  
-Vice Treasurer : Tatiana Spassky
+__Trésorier__ : Jules Richard  
+__Vice-trésorière__ : Tatiana Spassky
 
-Secretary: Clément Jarrossay
+__Secrétaire__ : Clément Jarrossay
 
 # Board of directors
 The association’s board is currently made up of the 12 founding members:

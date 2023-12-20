@@ -9,16 +9,16 @@
 
 # Le bureau 
 
-**Présidente** : Marlène De Bank  
+__Présidente__ : Marlène De Bank  
 __Vice-président__ : Olivier Del Bucchia
 
-Trésorier : Jules Richard  
-Vice-trésorière : Tatiana Spassky
+__Trésorier__ : Jules Richard  
+__Vice-trésorière__ : Tatiana Spassky
 
-Secrétaire : Clément Jarrossay
+__Secrétaire__ : Clément Jarrossay
 
 
-# Le CA
+# Le Conseil d'Administration
 Le CA de l'association est actuellement constitué de 12 membres :
 
 - Loïc Bonifacio

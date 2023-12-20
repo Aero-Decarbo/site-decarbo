@@ -87,5 +87,5 @@ Welcome to the Aero Decarbo association website !
         .. raw:: html
 
             <a href="https://www.websitecarbon.com/website/decarbo-org/" target="_blank">
-            <img src="/images/Carbon_Calc_Decarbo.jpg" height="200" alt="Score of the decarbo.org site">
+            <img src="/images/Carbon_Calc_Decarbo.jpg" class="ad_img_accueil" alt="Score of the decarbo.org site">
             </a>

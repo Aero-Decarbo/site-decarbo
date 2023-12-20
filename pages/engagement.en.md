@@ -8,7 +8,7 @@
 .. type: text
 
 
-The aerospace sector holds a special place, both in the hearts and in the landscape of the energy transition. Cutting-edge industries, driven by dreams and achievements, with negligible climate impact, contributing to the exploration of the world and the progress of scientific knowledge for its advocates, but distant, costly, and super-luxurious activity as a whim of the ultra-rich who are adept at minimizing their emissions from the perspective of their critics.
+The aerospace sector holds a special place, both in the hearts and in the landscape of the energy transition. Cutting-edge industries, driven by dreams and achievements, with negligible climate impact, contributing to the exploration of the world and the progress of scientific knowledge for its advocates, but costly, and super-luxurious activity as a whim of the ultra-rich who are adept at minimizing their emissions from the perspective of their critics.
 
 AÉRO DÉCARBO supports the idea that beyond these often caricatured positions presented to the public, another voice deserves to be heard.
 

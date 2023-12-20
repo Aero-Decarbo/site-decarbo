@@ -7,7 +7,12 @@
 .. description: 
 .. type: text
 
-The `Shift Project <https://theshiftproject.org>`_ and the Supaéro Décarbo collective (ancestor of the Aéro Décarbo association) published their new report on decarbonization of the aviation sector, "Flying in 2050: Which aviation in a constrained world?" on Wednesday, March 3, 2021. This report followed the Shift Project's initial work on the subject with the May 2020 publication of "Crisis(-es), climate: preparing the future of aviation."
+
+.. raw:: html
+
+   <div style="margin-bottom: 10px;">
+   <a href="https://theshiftproject.org" target="_blank" ><i>The Shift Project</i></a> and the Supaéro Décarbo collective (ancestor of the Aéro Décarbo association) published their new report on decarbonization of the aviation sector, "Flying in 2050: Which aviation in a constrained world?" on Wednesday, March 3, 2021. This report followed the Shift Project's initial work on the subject with the May 2020 publication of "Crisis(-es), climate: preparing the future of aviation."
+   </div>
 
 How can we act today to keep flying tomorrow in a constrained world? How can we steer the aviation sector towards trajectories that are compatible with climate issues and less dependent on fossil fuel resources?
 

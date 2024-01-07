@@ -12,3 +12,5 @@
 ![Deuxième partie de la timeline](/images/timeline 2.png "Timeline, deuxième partie")
 
 ![Troisième partie de la timeline](/images/timeline 3.png "Timeline, troisième partie")
+
+![Quatrième partie de la timeline](/images/timeline 4.png "Timeline, quatrième partie")

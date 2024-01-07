@@ -7,8 +7,10 @@
 .. description: 
 .. type: text
 
-![First part of the timeline](/images/timeline 1.png "Timeline, first part")
+![First part of the timeline](/images/timeline 1_en.png "Timeline, first part")
 
-![Second part of the timeline](/images/timeline 2.png "Timeline, second part")
+![Second part of the timeline](/images/timeline 2_en.png "Timeline, second part")
 
-![Third part of the timeline](/images/timeline 3.png "Timeline, third part")
+![Third part of the timeline](/images/timeline 3_en.png "Timeline, third part")
+
+![Fourth part of the timeline](/images/timeline 4_en.png "Timeline, fourth partie")

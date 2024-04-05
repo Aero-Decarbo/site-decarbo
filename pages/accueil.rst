@@ -31,49 +31,79 @@ Bienvenue sur le site de l'association Aéro Décarbo !
    :widths: 70 10 20
    :align: center
    
-   * - **Tout comprendre au lien entre aviation et climat :**
+   * - **Energie, climat : Des réseaux sobres pour des usages connectés résilients**
        
-       Comment l'aviation contribue-t-elle au changement climatique ?
+       Quels impact associés aux choix de déploiement réseau télécom ?
        
-       Quelle part joue-t-elle ?
+       Quelle stratégies pour rendre les infrastructures réseaux résilientes à la double contrainte carbone ?
        
-       `Cliquez ici pour nos explications ! <link://slug/pve2050>`_
+       `Découvrez le nouveau rapport du Shift Project, en partenariat avec AERO DECARBO <link://slug/contributions>`_
+       
      - 
      - 
         .. raw:: html
 
-          <a href="link://slug/pve2050">
-            <img src="/images/contrails.jpg" class="ad_img_accueil" alt="Image de traînées de condensation et lien vers la page d’explications">
+          <a href="link://slug/contributions">
+            <img src="/images/COUV-RESEAUX_Page_1-1.jpg" class="ad_img_accueil">
           </a>
 
 .. list-table::
-   :widths: 40 10 50
+   :widths: 20 10 70
    :align: center
    
    * - 
         .. raw:: html
 
-          <a href="link://slug/rejoindre">
-            <img src="/images/joinus-airbus.jpg" class="ad_img_accueil" alt=" Image de Béluga sur lequel il est peint 'Join us' et lien vers la page 'Nous rejoindre'">
+          <a href="link://slug/contributions">
+            <img src="/images/Rapport_PRE_Spatial.png" class="ad_img_accueil">
           </a>
    
      - 
-     - **Rejoignez l’association**
+     - **Pour un réveil écologique : Rapport sur le secteur spatial**
+       
+       Pour un réveil écologique s’intéresse aux impacts environnementaux du secteur spatial au travers de ce rapport publié en Janvier 2024
+
+       Quelles sont les activités et les spécificités du secteur spatial ?
+       
+       Quels impacts sur le climat et la couche d’ozone et quelles pistes d'actions ?
+      
+       `Découvrez le nouveau rapport sectoriel de Pour un réveil écologique, en partenariat avec AERO DECARBO <link://slug/contributions>`_
+
+.. list-table::
+   :widths: 60 10 30
+   :align: center
+
+   * - **Rejoignez l’association**
        
        Vous souhaitez contribuer à nos travaux ?
        
        Ou simplement nous soutenir ?
        
        `Rejoignez-nous dès aujourd'hui ! <link://slug/rejoindre>`_
+     -
+     - 
+        .. raw:: html
 
+          <a href="link://slug/rejoindre">
+            <img src="/images/joinus-airbus.jpg" class="ad_img_accueil" alt=" Image de Béluga sur lequel il est peint 'Join us' et lien vers la page 'Nous rejoindre'">
+          </a>
+   
 
 .. list-table::
-   :widths: 70 10 30
+   :widths: 20 10 70
    :align: center
+
+   * - 
+        .. raw:: html
+
+            <a href="https://www.websitecarbon.com/website/decarbo-org/" target="_blank">
+              <img src="/images/Carbon_Calc_Decarbo.jpg" class="ad_img_accueil" alt="Score du site decarbo.org">
+            </a>
    
-   * - **Tout savoir sur l'empreinte carbone de ce site :**
+     -
+     - **Tout savoir sur l'empreinte carbone de ce site :**
        
-       .. raw:: html
+        .. raw:: html
 
           <div style="font-size:1rem;">
           L'empreinte carbone de Decarbo.org est évaluée à A+ sur <a href="https://www.websitecarbon.com/" target="_blank" >Website Carbon Calculator</a>.<br>
@@ -82,11 +112,3 @@ Bienvenue sur le site de l'association Aéro Décarbo !
 
           <a href="https://www.websitecarbon.com/website/decarbo-org/" target="_blank" >Cliquez ici pour connaitre le détail de notre evaluation et en savoir plus sur la méthodologie utilisée</a>
           </div>
-
-     - 
-     - 
-        .. raw:: html
-
-            <a href="https://www.websitecarbon.com/website/decarbo-org/" target="_blank">
-              <img src="/images/Carbon_Calc_Decarbo.jpg" class="ad_img_accueil" alt="Score du site decarbo.org">
-            </a>

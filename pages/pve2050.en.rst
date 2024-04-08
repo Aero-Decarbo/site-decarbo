@@ -11,14 +11,14 @@
 .. raw:: html
 
    <div style="margin-bottom: 10px;">
-   <a href="https://theshiftproject.org" target="_blank" ><i>The Shift Project</i></a> and the Supaéro Décarbo collective (ancestor of the Aéro Décarbo association) published their new report on decarbonization of the aviation sector, "Flying in 2050: Future of aviation under climate and energy constraints" on Wednesday, March 3, 2021. This report followed the Shift Project's initial work on the subject with the May 2020 publication of "Crisis(-es), climate: preparing the future of aviation."
+   <a href="https://theshiftproject.org/en/home/" target="_blank" ><i>The Shift Project</i></a> and the Supaéro Décarbo collective (ancestor of the Aéro Décarbo association) published their new report on decarbonization of the aviation sector, "Flying in 2050: Future of aviation under climate and energy constraints" on Wednesday, March 3, 2021. This report followed the Shift Project's initial work on the subject with the May 2020 publication of "Crisis(-es), climate: preparing the future of aviation."
    </div>
 
 How can we act today to keep flying tomorrow in a constrained world? How can we steer the aviation sector towards trajectories that are compatible with climate issues and less dependent on fossil fuel resources?
 
-`Download the full report (135 pages, in French) <https://theshiftproject.org/wp-content/uploads/2021/12/TSP_AVIATION_RAPPORT_211116.pdf>`_
+`Download the summary (10 pages) <https://theshiftproject.org/wp-content/uploads/2021/07/TSP_AVIATION-2050_SYNTHESE_ENG.pdf>`_
 
-`Download the summary (10 pages, in French) <https://theshiftproject.org/wp-content/uploads/2021/03/Pouvoir-voler-en-2050_Shift-Project_Synthese.pdf>`_
+`Download the full report (135 pages, in French) <https://theshiftproject.org/wp-content/uploads/2021/12/TSP_AVIATION_RAPPORT_211116.pdf>`_
 
 `Download the calculation note <https://theshiftproject.org/wp-content/uploads/2021/07/Calculs-et-scenarios-Rapport-Aerien-TSPSD.xlsx>`_
 
@@ -27,22 +27,21 @@ How can we act today to keep flying tomorrow in a constrained world? How can we 
    :widths: 40 20 40
    :align: center
 
-   * - **Full report**
+   * - **Summary**
      - 
-     - **Summary**
-   * - .. image:: /images/pve2050-rapport.jpg
+     - **Full report**
+   * - .. image:: /images/pve2050-synthèse_en.jpg
+         :width: 200
+         :alt: Cover of the summary of the report Flying in 2050
+         :align: center
+         :target: https://theshiftproject.org/wp-content/uploads/2021/07/TSP_AVIATION-2050_SYNTHESE_ENG.pdf
+     -
+     - .. image:: /images/pve2050-rapport.jpg
          :width: 200
          :alt: Cover of the report Flying in 2050
          :align: center
          :target: https://theshiftproject.org/wp-content/uploads/2021/12/TSP_AVIATION_RAPPORT_211116.pdf
-     - 
-     - .. image:: /images/pve2050-synthèse.jpg
-         :width: 200
-         :alt: Cover of the summary of the report Flying in 2050
-         :align: center
-         :target: https://theshiftproject.org/wp-content/uploads/2021/03/Pouvoir-voler-en-2050_Shift-Project_Synthese.pdf
-
-
+    
 Replay of the presentation webinar of the report "Flying in 2050" - Wednesday, March 3, 2021
 
 .. youtube:: u3nKE14K3fQ

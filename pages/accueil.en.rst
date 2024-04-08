@@ -17,7 +17,7 @@ Welcome to the Aero Decarbo association website !
         .. raw:: html
 
           <a href="link://slug/pve2050">
-            <img src="/images/pve2050-rapport.jpg" class="ad_img_accueil" alt="Cover of the report Able to fly in 2050 and link to the report">
+            <img src="/images/pve2050-synthèse_en.jpg" class="ad_img_accueil" alt="Cover of the report Able to fly in 2050 and link to the report">
           </a>
      - 
      - **Discover our report on the decarbonization of the aviation sector :**

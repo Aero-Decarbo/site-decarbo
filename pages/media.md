@@ -28,7 +28,6 @@ Retrouvez ici tribunes, interviews, débats et autres prises de paroles parus da
             </div>
         </td>
     <tr>
-        <tr>
         <td class="image-cell">
             <a href=https://www.20minutes.fr/ target=_blank>
                 <img src="/images/logo_20minutes.webp" class="ad_img_bullet_point" alt="20 minutes">
@@ -64,7 +63,6 @@ Retrouvez ici tribunes, interviews, débats et autres prises de paroles parus da
             </div>
         </td>
     <tr>
-        <tr>
         <td class="image-cell">
             <a href=https://www.arretsurimages.net/ target=_blank>
                 <img src="/images/logo_ArretSurImages.webp" class="ad_img_bullet_point" alt="Arrêt sur images">
@@ -102,7 +100,6 @@ Retrouvez ici tribunes, interviews, débats et autres prises de paroles parus da
             </div>
         </td>
     <tr>
-        <tr>
         <td class="image-cell">
             <a href=https://www.liberation.fr/ target=_blank>
                 <img src="/images/logo_Liberation.webp" class="ad_img_bullet_point" alt="Libération">
@@ -122,7 +119,6 @@ Retrouvez ici tribunes, interviews, débats et autres prises de paroles parus da
         </td>
     <tr>
     <tr>
-        <tr>
         <td class="image-cell">
             <a href=https://www.francetvinfo.fr/ target=_blank>
                 <img src="/images/logo_FranceInfo.webp" class="ad_img_bullet_point" alt="France Info">
@@ -137,6 +133,23 @@ Retrouvez ici tribunes, interviews, débats et autres prises de paroles parus da
                 France Info souhaite aborder la question de la reprise du Traffic après de le COVID VS la sobriété, ceci bien sûr dans le contexte du Bourget 2023.
                 <br><br>
                 <strong>Pitch France Info :</strong> C’est l’heure de la reprise pour l’aéronautique. Le premier salon du Bourget depuis le Covid ouvre ses portes lundi 19 juin. Cette édition sera marquée par la redémarrage du secteur aérien, mais aussi par l’inquiétude face au défi climatique. <a href=https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/salon-du-bourget-la-premiere-edition-depuis-le-covid-navigue-entre-reprise-des-commandes-et-promesses-de-sobriete_5864189.html target="_blank">Ecouter l'émission</a>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td class="image-cell">
+            <a href=https://greenletterclub.fr/ target=_blank>
+                <img src="/images/logo_GreenLetterClub.webp" class="ad_img_bullet_point" alt="Green Letter Club">
+            </a>
+        </td>
+        <td class="content-cell">
+            <a href=https://greenletterclub.fr/podcast/episode-31 target=_blank>Podcast - AVIATION : Pourra-t-on encore voler en 2050 ?</a>
+            <span class="ad_ref">(Grégoire Carpentier (AÉRO DÉCARBO), 28 Avril 2022)</span>
+            <div class="accordion-section">
+                <div class="accordion-header">+</div>
+                <div class="accordion-content ad_preview">
+                <strong>Pitch Green Letter Club :</strong> Combustion de kérosène ou trainées de condensation : l’aviation participe au réchauffement de la planète tout en ne profitant qu’à une poignée de privilégiés. D’où cette question : pourra-t-on encore voler en 2050 ? Pour y répondre, nous recevons Grégoire Carpentier, ingénieur aéronautique, co-fondateur de Supaero décarbo, un collectif visant à décarboner le secteur aérien et qui a récemment publié un rapport sur le sujet avec le Shift Project.  <a href=https://greenletterclub.fr/podcast/episode-31 target="_blank">Ecouter le podcast</a>
                 </div>
             </div>
         </td>

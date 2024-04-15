@@ -85,7 +85,7 @@ You will find here opinion pieces, interviews, debates, and other statements pub
     <tr>
     <tr>
         <td class="image-cell">
-            <a href=https://www.brut.media/fr target=_blank>
+            <a href=https://www.brut.media/us target=_blank>
                 <img src="/images/logo_Brut.webp" class="ad_img_bullet_point" alt="Brut">
             </a>
         </td>

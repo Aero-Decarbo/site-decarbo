@@ -139,7 +139,7 @@ You will find here opinion pieces, interviews, debates, and other statements pub
     <tr>
         <td class="image-cell">
             <a href=https://greenletterclub.fr/ target=_blank>
-                <img src="/images/logo_GreenLetterClub.webp" class="ad_img_bullet_point" alt="Green Letter Club">
+                <img src="/images/logo_GreenletterClub.webp" class="ad_img_bullet_point" alt="Green Letter Club">
             </a>
         </td>
         <td class="content-cell">

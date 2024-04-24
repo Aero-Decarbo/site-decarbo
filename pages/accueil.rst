@@ -17,7 +17,7 @@ Bienvenue sur le site de l'association Aéro Décarbo !
         .. raw:: html
 
           <a href="link://slug/pve2050">
-            <img src="/images/pve2050-rapport.jpg" class="ad_img_accueil" alt="Couverture du rapport Pouvoir voler en 2050 et lien vers le rapport">
+            <img src="/images/pve2050-synthese.jpg" class="ad_img_accueil" alt="Couverture du rapport Pouvoir voler en 2050 et lien vers le rapport">
           </a>
      - 
      - **Découvrez notre rapport sur la décarbonation du secteur aérien :**

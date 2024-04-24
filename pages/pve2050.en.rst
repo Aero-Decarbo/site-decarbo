@@ -30,7 +30,7 @@ How can we act today to keep flying tomorrow in a constrained world? How can we 
    * - **Summary**
      - 
      - **Full report**
-   * - .. image:: /images/pve2050-synthèse_en.jpg
+   * - .. image:: /images/pve2050-synthese_en.jpg
          :width: 200
          :alt: Cover of the summary of the report Flying in 2050
          :align: center

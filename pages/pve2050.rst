@@ -37,7 +37,7 @@ Comment agir aujourd’hui pour continuer à voler demain, dans un monde contrai
          :align: center
          :target: https://theshiftproject.org/wp-content/uploads/2021/12/TSP_AVIATION_RAPPORT_211116.pdf
      - 
-     - .. image:: /images/pve2050-synthèse.jpg
+     - .. image:: /images/pve2050-synthese.jpg
          :width: 200
          :alt: Couverture de la synthèse du rapport Pouvoir voler en 2050
          :align: center

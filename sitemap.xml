@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://decarbo.org/</loc>
-  <lastmod>2024-04-09T14:19:00Z</lastmod>
+  <lastmod>2024-06-10T09:13:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/" />
  </url>
  <url>
@@ -58,7 +58,7 @@
  </url>
  <url>
   <loc>https://decarbo.org/en/expertise.html</loc>
-  <lastmod>2024-04-09T14:19:00Z</lastmod>
+  <lastmod>2024-06-10T11:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/friends.html</loc>
@@ -78,7 +78,7 @@
  </url>
  <url>
   <loc>https://decarbo.org/en/letters.html</loc>
-  <lastmod>2024-04-09T14:19:00Z</lastmod>
+  <lastmod>2024-06-10T10:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/media.html</loc>
@@ -86,7 +86,7 @@
  </url>
  <url>
   <loc>https://decarbo.org/en/pve2050.html</loc>
-  <lastmod>2024-04-25T11:02:00Z</lastmod>
+  <lastmod>2024-06-10T11:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/spatial.html</loc>
@@ -94,7 +94,7 @@
  </url>
  <url>
   <loc>https://decarbo.org/en/sundry.html</loc>
-  <lastmod>2024-04-09T14:19:00Z</lastmod>
+  <lastmod>2024-06-10T10:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/team.html</loc>
@@ -130,7 +130,7 @@
  </url>
  <url>
   <loc>https://decarbo.org/lettres.html</loc>
-  <lastmod>2024-04-09T14:19:00Z</lastmod>
+  <lastmod>2024-06-10T10:09:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/letters.html" />
  </url>
  <url>
@@ -145,7 +145,7 @@
  </url>
  <url>
   <loc>https://decarbo.org/pve2050.html</loc>
-  <lastmod>2024-04-25T11:02:00Z</lastmod>
+  <lastmod>2024-06-10T11:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/pve2050.html" />
  </url>
  <url>
@@ -160,7 +160,7 @@
  </url>
  <url>
   <loc>https://decarbo.org/travaux-divers.html</loc>
-  <lastmod>2024-04-09T14:19:00Z</lastmod>
+  <lastmod>2024-06-10T10:11:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/sundry.html" />
  </url>
  <url>

@@ -17,7 +17,7 @@ Welcome to the Aero Decarbo association website !
         .. raw:: html
 
           <a href="link://slug/pve2050">
-            <img src="/images/pve2050-synthese_en.jpg" class="ad_img_accueil" alt="Cover of the report Able to fly in 2050 and link to the report">
+            <img src="/images/pve2050-rapport_en.jpg" class="ad_img_accueil" alt="Cover of the report Flying in 2050 and link to the report">
           </a>
      - 
      - **Discover our report on the decarbonization of the aviation sector :**
@@ -97,7 +97,7 @@ Welcome to the Aero Decarbo association website !
         .. raw:: html
 
             <a href="https://www.websitecarbon.com/website/decarbo-org/" target="_blank">
-              <img src="/images/Carbon_Calc_Decarbo.jpg" class="ad_img_accueil" alt="Score du site decarbo.org">
+              <img src="/images/Carbon_Calc_Decarbo.png" class="ad_img_accueil" alt="Score du site decarbo.org">
             </a>
    
      -
@@ -106,7 +106,7 @@ Welcome to the Aero Decarbo association website !
         .. raw:: html
 
           <div style="font-size:1rem;">
-         The carbon footprint of Decarbo.org is rated A+ on the <a href="https://www.websitecarbon.com/" target="_blank" >Website Carbon Calculator</a>.<br>
+         The carbon footprint of Decarbo.org is rated B on the <a href="https://www.websitecarbon.com/" target="_blank" >Website Carbon Calculator</a>.<br>
        
           If you believe you can help us improve even further in this regard, feel free to contact us at <a href="mailto:contact@decarbo.org">(contact@decarbo.org)</a>.<br>        
 

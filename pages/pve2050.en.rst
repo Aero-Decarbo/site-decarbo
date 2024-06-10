@@ -16,12 +16,17 @@
 
 How can we act today to keep flying tomorrow in a constrained world? How can we steer the aviation sector towards trajectories that are compatible with climate issues and less dependent on fossil fuel resources?
 
-`Download the summary (10 pages) <https://theshiftproject.org/wp-content/uploads/2021/07/TSP_AVIATION-2050_SYNTHESE_ENG.pdf>`_
+.. raw:: html
 
-`Download the full report (135 pages, in French) <https://theshiftproject.org/wp-content/uploads/2021/12/TSP_AVIATION_RAPPORT_211116.pdf>`_
-
-`Download the calculation note <https://theshiftproject.org/wp-content/uploads/2021/07/Calculs-et-scenarios-Rapport-Aerien-TSPSD.xlsx>`_
-
+         <p>
+            <a href="https://theshiftproject.org/wp-content/uploads/2021/07/TSP_AVIATION-2050_SYNTHESE_ENG.pdf" target="_blank">Download the summary (10 pages)</a>
+         </p>
+         <p>
+            <a href="/documents/20240610_AD_TSP_PVE2050_EN.pdf" target="_blank">Download the full report (135 pages)</a>
+         </p>
+         <p>
+         <a href="/documents/20240610_PVE2050-Calculations-Scenarios-Aeronautics-Report.xlsx">Download the calculation note </a>
+         </p>
 
 .. list-table::
    :widths: 40 20 40
@@ -30,17 +35,18 @@ How can we act today to keep flying tomorrow in a constrained world? How can we 
    * - **Summary**
      - 
      - **Full report**
-   * - .. image:: /images/pve2050-synthese_en.jpg
-         :width: 200
-         :alt: Cover of the summary of the report Flying in 2050
-         :align: center
-         :target: https://theshiftproject.org/wp-content/uploads/2021/07/TSP_AVIATION-2050_SYNTHESE_ENG.pdf
+   * - .. raw:: html
+
+         <a href="https://theshiftproject.org/wp-content/uploads/2021/07/TSP_AVIATION-2050_SYNTHESE_ENG.pdf" target="_blank">
+            <img src="/images/pve2050-synthese_en.jpg" alt="Cover of the summary of the report Flying in 2050" style="width: 200px; display: block; margin-left: auto; margin-right: auto;" />
+         </a>
+
      -
-     - .. image:: /images/pve2050-rapport.jpg
-         :width: 200
-         :alt: Cover of the report Flying in 2050
-         :align: center
-         :target: https://theshiftproject.org/wp-content/uploads/2021/12/TSP_AVIATION_RAPPORT_211116.pdf
+     - .. raw:: html
+
+         <a href="/documents/20240610_AD_TSP_PVE2050_EN.pdf" target="_blank">
+            <img src="/images/pve2050-rapport_en.jpg" alt="Cover of the report Flying in 2050" style="width: 200px; display: block; margin-left: auto; margin-right: auto;" />
+         </a>
     
 Replay of the presentation webinar of the report "Flying in 2050" - Wednesday, March 3, 2021
 
@@ -110,12 +116,12 @@ Technical contacts:
 
 | **Olivier Del Bucchia**
 | Report Project Manager
-| Co-founder of the Supaéro Décarbo collective
-| `olivier@goliveprojet.com <mailto:olivier@goliveprojet.com>`_
+| Co-founder of AÉRO DÉCARBO
+| `olivier.del-bucchia@decarbo.org <mailto:olivier.del-bucchia@decarbo.org>`_
 | 
 | **Grégoire Carpentier**
 | Report Project Manager
-| Co-founder of the Supaéro Décarbo collective
+| Co-founder of AÉRO DÉCARBO
 | `gregoire.carpentier@theshiftproject.org <mailto:gregoire.carpentier@theshiftproject.org>`_
 
 Media contact:

@@ -11,17 +11,17 @@
 Voici une liste de nos prises de positions publiques.
 <ul>
     <li>
-        <a href=https://drive.google.com/file/d/144PwEGdya0rvpkUNEb1qsz2UqGmSX6u5/view?usp=sharing target=_blank>Lettre ouverte à l’attention du gouvernement francais</a>
+        <a href="/documents/20200619_Lettre-Ouverte-Gouvernement.pdf" target=_blank>Lettre ouverte à l’attention du gouvernement francais</a>
         <span class="ad_ref">(SUPAERO DECARBO, 19 Juin 2020)</span>
     </li>
     <div class="accordion-section">
         <div class="accordion-header">-</div>
         <div class="accordion-content ad_preview active">
-        Suite à la présentation du <a href=https://www.economie.gouv.fr/plan-soutien-aeronautique target=_blank>PLAN DE SOUTIEN A L'AERONAUTIQUE pour une industrie verte et compétitive</a> par le gouvernement francais le 9 juin 2020, le collectif SUPAERO DECARBO a publié cette lettre ouverte et l'a envoyée par courrier postal aux ministre de la Transition écologique et solidaire, ministre des Armées, secrétaire d’État auprès du ministre de l’Économie et des Finances, ministre de l’Économie et des Finances, secrétaire d’État chargé des Transports. La ministre des Armées a répondu le 2 février 2021. A notre connaissance, il n'y a pas eu d'autre réponse, réaction ni conséquence directe suite à cette lettre. <a href=https://drive.google.com/file/d/144PwEGdya0rvpkUNEb1qsz2UqGmSX6u5/view?usp=sharing target="_blank">Lire la lettre</a>
+        Suite à la présentation du <a href=https://www.economie.gouv.fr/plan-soutien-aeronautique target=_blank>PLAN DE SOUTIEN A L'AERONAUTIQUE pour une industrie verte et compétitive</a> par le gouvernement francais le 9 juin 2020, le collectif SUPAERO DECARBO a publié cette lettre ouverte et l'a envoyée par courrier postal aux ministre de la Transition écologique et solidaire, ministre des Armées, secrétaire d’État auprès du ministre de l’Économie et des Finances, ministre de l’Économie et des Finances, secrétaire d’État chargé des Transports. La ministre des Armées a répondu le 2 février 2021. A notre connaissance, il n'y a pas eu d'autre réponse, réaction ni conséquence directe suite à cette lettre. <a href="/documents/20200619_Lettre-Ouverte-Gouvernement.pdf" target="_blank">Lire la lettre</a>
         </div>
     </div>
     <li>
-        <a href=https://drive.google.com/file/d/1qoj9pjNNbgSKD6Em3dwnEOHwLFjKj5zN/view?usp=sharing target=_blank>« ZEROe » et le monde de demain</a>
+        <a href="/documents/20200924_Zeroe-et-le-monde-de-demain.pdf" target=_blank>« ZEROe » et le monde de demain</a>
         <span class="ad_ref">(SUPAERO DECARBO, 24 Septembre 2020)</span>
     </li>
     <div class="accordion-section">
@@ -34,6 +34,6 @@ Voici une liste de nos prises de positions publiques.
             - Un <b>Turbofan</b> (avion à réaction) d'une capacité de <b>200 places</b> et d'une portée de <b>2000 nm</b> (~3700 km)
             <br>- Un <b>Turboprop</b> (avion à hélices) d'une capacité de <b>100 places</b> et d'une portée de <b>1000 nm</b> (~1900 km)
             </span>
-        Sur ces projets, il ne serait pas nécessaire d'installer un système de réfrigération pour l'hydrogène, ce qui simplifie la problématique, réduit le poids de l'avion (et améliore ainsi son efficacité énergétique). Le choix entre ces deux options devrait être fait courant 2025. <b>À noter :</b> les scénarios du rapport <a href=link://slug/pve2050>Pouvoir Voler en 2050</a> prennent pour hypothèse que l'avion à hydrogène de 2035 aurait une portée de 6000 km, et serait donc en capacité de couvrir l'ensemble des trajets de type Moyen Courrier. Cette hypothèse est donc mieux-disante que les projections industrielles actuelles, ce qui accroît le niveau de risque de réalisation de ces scénarios et, par conséquent, des niveaux d'émissions à trafic équivalent. <a href=https://drive.google.com/file/d/1qoj9pjNNbgSKD6Em3dwnEOHwLFjKj5zN/view?usp=sharing target="_blank">Lire la lettre</a>
+        Sur ces projets, il ne serait pas nécessaire d'installer un système de réfrigération pour l'hydrogène, ce qui simplifie la problématique, réduit le poids de l'avion (et améliore ainsi son efficacité énergétique). Le choix entre ces deux options devrait être fait courant 2025. <b>À noter :</b> les scénarios du rapport <a href=link://slug/pve2050>Pouvoir Voler en 2050</a> prennent pour hypothèse que l'avion à hydrogène de 2035 aurait une portée de 6000 km, et serait donc en capacité de couvrir l'ensemble des trajets de type Moyen Courrier. Cette hypothèse est donc mieux-disante que les projections industrielles actuelles, ce qui accroît le niveau de risque de réalisation de ces scénarios et, par conséquent, des niveaux d'émissions à trafic équivalent. <a href="/documents/20200924_Zeroe-et-le-monde-de-demain.pdf" target="_blank">Lire la lettre</a>
     </div>
   </ul>

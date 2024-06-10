@@ -97,7 +97,7 @@ Bienvenue sur le site de l'association Aéro Décarbo !
         .. raw:: html
 
             <a href="https://www.websitecarbon.com/website/decarbo-org/" target="_blank">
-              <img src="/images/Carbon_Calc_Decarbo.jpg" class="ad_img_accueil" alt="Score du site decarbo.org">
+              <img src="/images/Carbon_Calc_Decarbo.png" class="ad_img_accueil" alt="Score du site decarbo.org">
             </a>
    
      -
@@ -106,7 +106,7 @@ Bienvenue sur le site de l'association Aéro Décarbo !
         .. raw:: html
 
           <div style="font-size:1rem;">
-          L'empreinte carbone de Decarbo.org est évaluée à A+ sur <a href="https://www.websitecarbon.com/" target="_blank" >Website Carbon Calculator</a>.<br>
+          L'empreinte carbone de Decarbo.org est évaluée à B sur <a href="https://www.websitecarbon.com/" target="_blank" >Website Carbon Calculator</a>.<br>
        
           Si vous pensez pouvoir nous aider à améliorer encore sur ce point, n’hésitez pas à nous contacter <a href="mailto:contact@decarbo.org">(contact@decarbo.org)</a>.<br>        
 

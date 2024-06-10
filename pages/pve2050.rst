@@ -17,33 +17,39 @@
   
 Comment agir aujourd’hui pour continuer à voler demain, dans un monde contraint ? Comment orienter le secteur aéronautique vers des trajectoires compatibles avec les enjeux climatiques et moins dépendantes des approvisionnements en énergies fossiles ?
 
-`Téléchargez le rapport complet (135 pages) <https://theshiftproject.org/wp-content/uploads/2021/12/TSP_AVIATION_RAPPORT_211116.pdf>`_
+.. raw:: html
 
-`Téléchargez la synthèse (10 pages) <https://theshiftproject.org/wp-content/uploads/2021/03/Pouvoir-voler-en-2050_Shift-Project_Synthese.pdf>`_
-
-`Téléchargez la note de calcul <https://theshiftproject.org/wp-content/uploads/2021/07/Calculs-et-scenarios-Rapport-Aerien-TSPSD.xlsx>`_
-
+         <p>
+            <a href="/documents/20210303_AD_TSP_PVE2050_Synthese.pdf" target="_blank" style="margin-ft:20">Téléchargez la synthèse (10 pages)</a>
+         </p>
+         <p>
+            <a href="/documents/20210303_AD_TSP_PVE2050.pdf" target="_blank">Téléchargez le rapport complet (135 pages)</a>
+         </p>
+         <p>
+         <a href="/documents/20240610_PVE2050-Calculs-et-scenarios-Rapport-Aerien.xlsx">Téléchargez la note de calcul</a>
+         </p>
 
 .. list-table::
    :widths: 40 20 40
    :align: center
 
-   * - **Rapport complet**
+   * - **Synthèse**
      - 
-     - **Synthèse**
-   * - .. image:: /images/pve2050-rapport.jpg
-         :width: 200
-         :alt: Couverture du rapport Pouvoir voler en 2050
-         :align: center
-         :target: https://theshiftproject.org/wp-content/uploads/2021/12/TSP_AVIATION_RAPPORT_211116.pdf
+     - **Rapport complet**
+   * - .. raw:: html
+
+         <a href="/documents/20210303_AD_TSP_PVE2050_Synthese.pdf" target="_blank">
+            <img src="/images/pve2050-synthese.jpg" alt="Couverture de la synthèse du rapport Pouvoir voler en 2050" style="width: 200px; display: block; margin-left: auto; margin-right: auto;" />
+         </a>
+   
      - 
-     - .. image:: /images/pve2050-synthese.jpg
-         :width: 200
-         :alt: Couverture de la synthèse du rapport Pouvoir voler en 2050
-         :align: center
-         :target: https://theshiftproject.org/wp-content/uploads/2021/03/Pouvoir-voler-en-2050_Shift-Project_Synthese.pdf
+     - .. raw:: html
 
-
+         <a href="/documents/20210303_AD_TSP_PVE2050.pdf" target="_blank">
+            <img src="/images/pve2050-rapport.jpg" alt="Couverture du rapport Pouvoir voler en 2050" style="width: 200px; display: block; margin-left: auto; margin-right: auto;" />
+         </a>
+     
+   
 Replay du webinaire de présentation du rapport « Pouvoir voler en 2050 » – Mercredi 3 mars 2021
 
 .. youtube:: u3nKE14K3fQ
@@ -112,12 +118,12 @@ Contacts techniques :
 
 | **Olivier Del Bucchia** 
 | Chef de projet du rapport
-| Co-fondateur du collectif Supaéro Décarbo
-| `olivier@goliveprojet.com <mailto:olivier@goliveprojet.com>`_
+| Co-fondateur de AÉRO DÉCARBO 
+| `olivier.del-bucchia@decarbo.org <mailto:olivier.del-bucchia@decarbo.org>`_
 | 
 | **Grégoire carpentier**
 | Chef de projet du rapport
-| Co-fondateur du collectif Supaéro Décarbo
+| Co-fondateur AÉRO DÉCARBO
 | `gregoire.carpentier@theshiftproject.org <mailto:gregoire.carpentier@theshiftproject.org>`_
 
 Contact presse :
